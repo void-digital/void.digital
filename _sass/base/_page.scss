@@ -5,13 +5,13 @@ body {
 }
 
 p {
-  line-height: 1.75;
+  line-height: 1.5;
 }
 
 a {
-  color: $primary;
+  color: #000;
   &:hover {
-    color: darken($primary, 10%);
+    color: darken(#000, 10%);
   }
 }
 
@@ -31,6 +31,7 @@ h6 {
 
 .page-section {
   padding: 100px 0;
+  
   h2.section-heading {
     font-size: 40px;
     margin-top: 0;
@@ -39,10 +40,10 @@ h6 {
   h3.section-subheading {
     font-size: 16px;
     font-weight: 400;
-    font-style: italic;
+    font-style: normal;
     margin-bottom: 75px;
     text-transform: none;
-    @include serif-font;
+    @include heading-font;
   }
 }
 @media (min-width: 768px) {
@@ -68,4 +69,9 @@ img::selection {
 
 img::-moz-selection {
   background: transparent;
+}
+
+.bg-black {
+  background-color: #000;
+  color: #fff;
 }

@@ -11,25 +11,25 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
+    title: DIGITAL DESIGN & <br> SOFTWARE SOLUTIONS
     text: It's Nice To Meet You
-    button: Tell Me More
+    button: Find Out More
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "WE BRING YOUR IDEAS TO LIFE"
     section: services
     list:
-      - title: "Service 1"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Service 2"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Service 3](https://github.com/void-digital/void.digital)"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fab fa-markdown
+      - title: "SOFTWARE <br> DEVELOPMENT"
+        desc: "We create bespoke applications from the ground up to suit your business and workflow processes. We bring your software ideas to life using unique custom built features, easy to use content management systems, and human focused solutions. "
+        icon: fas fa-light fa-code  #find more at https://fontawesome.com/icons
+      - title: "GRAPHIC <br> DESIGN"
+        desc: "We offer a wide range of graphic design services, from complete logo and branding packages, as well as business cards & collateral, brochures, flyers, social media content, photography and packaging design."
+        icon: fas fa-icons
+      - title: "WEBSITE <br> DEVELOPMENT"
+        desc: "We create fully responsive, unique and professional websites, custom designed to suit your brand and your business needs. We work with businesses of all sizes to build websites that not only look great but are easy to use and will impress your customers. "
+        icon: fas fa-laptop-code
 
   portfolio:
     title: "Portfolio"
@@ -39,8 +39,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: 
+    body: "VOID Digital is based in the Nambucca Valley on the NSW Mid North Coast. We offer inspiring design and custom web development to suit all business needs, from complete branding packages to custom web and mobile application development. We deliver high quality, innovative and creative solutions that will achieve long lasting results for your business."
     section: about
 
   clients:
@@ -62,41 +62,23 @@ en: &DEFAULT_EN
         logo: assets/img/clients/200x50.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    title: "MEET THE TEAM"
+    text: 
+    subtext: 
     section: team
     people:
       - name: "Simon Brazell"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        image: assets/img/team/simon_1.png
+
       - name: "Corinne Neville"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Wednesday (a.k.a Puss)"
+        image: assets/img/team/corinne_2.png
+       
+      - name: "Wednesday"
         role: "Head of Catministration"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        image: assets/img/team/wednesday.png
+      
 
   contact:
     title: "Contact Us"
