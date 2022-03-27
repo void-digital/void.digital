@@ -22,8 +22,8 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "SOFTWARE <br> DEVELOPMENT"
-        desc: "We create bespoke applications from the ground up to suit your business and workflow processes. We bring your software ideas to life using unique custom built features, easy to use content management systems, and human focused solutions. "
-        icon: fas fa-light fa-code  #find more at https://fontawesome.com/icons
+        desc: "We create bespoke software applications from the ground up to suit your business and workflow processes. We bring your software ideas to life using unique custom built features, easy to use content management systems, and human focused solutions. "
+        icon: fas fa-light fa-code #find more at https://fontawesome.com/icons
       - title: "GRAPHIC <br> DESIGN"
         desc: "We offer a wide range of graphic design services, from complete logo and branding packages, as well as business cards & collateral, brochures, flyers, social media content, photography and packaging design."
         icon: fas fa-icons
@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: 
+    text:
     body: "VOID Digital is based in the Nambucca Valley on the NSW Mid North Coast. We offer inspiring design and custom web development to suit all business needs, from complete branding packages to custom web and mobile application development. We deliver high quality, innovative and creative solutions that will achieve long lasting results for your business."
     section: about
 
@@ -63,8 +63,8 @@ en: &DEFAULT_EN
 
   team:
     title: "MEET THE TEAM"
-    text: 
-    subtext: 
+    text:
+    subtext:
     section: team
     people:
       - name: "Simon Brazell"
@@ -74,11 +74,10 @@ en: &DEFAULT_EN
       - name: "Corinne Neville"
         role: "Lead Designer"
         image: assets/img/team/corinne_2.png
-       
+
       - name: "Wednesday"
         role: "Head of Catministration"
         image: assets/img/team/wednesday.png
-      
 
   contact:
     title: "Contact Us"
@@ -104,7 +103,7 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com
+      - url: https://github.com/void-digital
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
