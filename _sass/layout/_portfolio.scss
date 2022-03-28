@@ -52,9 +52,9 @@
       }
       p {
         font-size: 16px;
-        font-style: italic;
+        
         margin: 0;
-        @include serif-font;
+       
       }
     }
   }
@@ -93,9 +93,6 @@
     }
     ul.list-inline {
       margin-top: 0;
-      margin-bottom: 30px;
-    }
-    img {
       margin-bottom: 30px;
     }
     button {

@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: DIGITAL DESIGN & <br> SOFTWARE SOLUTIONS
+    title: DIGITAL DESIGN AND <br> SOFTWARE SOLUTIONS
     text: <br>
     button: Find Out More
     buttonlink: "#services"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: 
     section: portfolio
     closebutton: "Close Project"
 
@@ -81,7 +81,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: 
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
