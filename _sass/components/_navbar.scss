@@ -68,8 +68,23 @@
       .navbar-brand {
         font-size: 1.25em;
         padding: 12px 0;
-        display:block;
+        display: block;
       }
+      .nav-item {
+        .nav-link {
+          color: white;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 991px) {
+  #mainNav {
+    .navbar-brand {
+      display: block;
+    }
+    .navbar-nav {
       .nav-item {
         .nav-link {
           color: white;
