@@ -13,6 +13,7 @@ image2: assets/img/portfolio/impact-cms.png
 alt2: image alt text
 ---
 
+<!---
 Use this area to describe your project. **Markdown** supported.
 
 optional info list (delete if not using):
@@ -22,3 +23,4 @@ optional info list (delete if not using):
 - Date:
 - Client:
 - Category:
+-->

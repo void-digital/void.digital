@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "SOFTWARE <br> DEVELOPMENT"
         desc: "We create bespoke software applications from the ground up to suit your business and workflow processes. We bring your software ideas to life using unique custom built features, easy to use content management systems, and human focused solutions. "
-        icon: fas fa-light fa-code #find more at https://fontawesome.com/icons
+        icon: code-slash-outline
       - title: "GRAPHIC <br> DESIGN"
         desc: "We offer a wide range of graphic design services, from complete logo and branding packages, as well as business cards & collateral, brochures, flyers, social media content, photography and packaging design."
-        icon: fas fa-icons
+        icon: color-palette-outline
       - title: "WEBSITE <br> DEVELOPMENT"
         desc: "We create fully responsive, unique and professional websites, custom designed to suit your brand and your business needs. We work with businesses of all sizes to build websites that not only look great but are easy to use and will impress your customers. "
-        icon: fas fa-laptop-code
+        icon: laptop-outline
 
   portfolio:
     title: "Portfolio"
