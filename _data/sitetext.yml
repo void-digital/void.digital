@@ -43,24 +43,6 @@ en: &DEFAULT_EN
     body: "VOID Digital is based in the Nambucca Valley on the NSW Mid North Coast. We offer inspiring design and custom web development to suit all business needs, from complete branding packages to custom web and mobile application development. We deliver high quality, innovative and creative solutions that will achieve long lasting results for your business."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "Client 1"
-        url: https://github.com/void-digital/void.digital
-        logo: assets/img/clients/200x50.jpg
-      - title: "Client 2"
-        url: https://github.com/void-digital/void.digital
-        logo: assets/img/clients/200x50.jpg
-      - title: "Client 3"
-        url: https://github.com/void-digital/void.digital
-        logo: assets/img/clients/200x50.jpg
-      - title: "Client 4"
-        url: https://github.com/void-digital/void.digital
-        logo: assets/img/clients/200x50.jpg
-
   team:
     title: "MEET THE TEAM"
     text:
