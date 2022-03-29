@@ -11,13 +11,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-domain: void.digital.github.io
-url: https://void.digital.github.io
-baseurl:
+domain: void.digital
+url: https://void.digital
+baseurl: ""
 
 title: VOID Digital
 email: info@void.digital
-description: "Site description"
+description: VOID Digital is based in the Nambucca Valley on the NSW Mid North Coast. We offer inspiring design and custom web development to suit all business needs, from complete branding packages to custom web and mobile application development. We deliver high quality, innovative and creative solutions that will achieve long lasting results for your business.
 author: VOID Digital
 logo:
   path: assets\img\logo.png
